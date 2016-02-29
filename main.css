@@ -92,7 +92,7 @@ h2 {
 	float:left;
 	margin: 20px 20px;
 	clear: both;
-	box-sizing: content-box
+	box-sizing: content-box;
 }
 
 .about-me {
@@ -107,12 +107,14 @@ h2 {
 h3 {
 	font-family: "Muli", sans-serif;
 	font-size: 1.5em;
-	color: papayawhip;
+	color: grey;
 	text-align: center;
 	margin: 10px 0; 
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
+
+
 
 .resume-photo {
 	float: left;
@@ -162,6 +164,24 @@ h3 {
 .ksc-paragraph {
 	padding: 20px 0;
 	text-align: left;
+}
+	
+.ksc-paragraph p {
+	font-family: "Quicksand", sans-serif;
+	font-weight: 350;
+	font-size: 1em;
+	color: #4e5564;
+	text-align: justify;
+	margin: 10px 5%; 
+}
+
+h4 {
+	font-family: "Quicksand", sans-serif;
+	font-weight: 700;
+	font-size: 1em;
+	color: #4e5564;
+	text-align: justify;
+	margin: 10px 5%; 
 }
 
 .contact-section {
